@@ -1,4 +1,4 @@
-# HackWire – Hardware Hackathon 1.1
+# HackWire – Hardware Hackathon
 
 > **Engineering Principles of Life into Hardware**
 
