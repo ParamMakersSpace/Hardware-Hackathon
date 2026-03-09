@@ -1,12 +1,10 @@
-# HackWire – Hardware Hackathon
+# HackWire – Hardware Hackathon 1.1
 
 > **Engineering Principles of Life into Hardware**
 
-![HackWire Banner](images/banner.jpg)
+HackWire is a philosophy-driven hardware hackathon where participants translate abstract principles of life into working hardware systems. It is not a conventional hackathon success here depends as much on conceptual clarity as on technical execution.
 
-HackWire is a philosophy-driven hardware hackathon where participants translate abstract principles of life into working hardware systems. It is not a conventional hackathon — success here depends as much on conceptual clarity as on technical execution.
-
-![Group Photo](images/group_photo.jpg)
+📄 **[View Complete Report with Images](https://drive.google.com/file/d/1hT7OS8Q1djNArja37lzMI_xLU4KVtIub/view?usp=drive_link)**
 
 ---
 
@@ -24,7 +22,8 @@ HackWire is a philosophy-driven hardware hackathon where participants translate 
 ## 🏛️ Organised By
 
 - **Param Foundation**
-- **Vedanta Bharathi & Mythic Society**
+- **Vedanta Bharathi**
+- **Mythic Society**
 - **PCB Cupid** *(Technical Support)*
 - **MIT ElectroVista Club**
 
@@ -52,22 +51,18 @@ The eight Tattvas:
 ## 👥 Participation
 
 - **123** team applications received
-- **30** teams shortlisted
-
-![Participants](images/participants.jpg)
+- **30** teams shortlisted to participate
 
 **Participating Institutions:**
 - Manipal Institute of Technology, Bangalore Campus
 - Manipal Institute of Technology, Manipal
 - BMS Institute of Technology & Management (BMSIT&M), Bengaluru
-- Nitte University
-- PES University
+- Nitte University, Nitte
+- PES University, Bengaluru
 
 ---
 
 ## 🏆 Winners
-
-![Winners on Stage](images/winners.jpg)
 
 | Place | Team | Project |
 |---|---|---|
@@ -78,8 +73,6 @@ The eight Tattvas:
 ---
 
 ## 🔧 Projects Built
-
-![Projects in Action](images/projects.jpg)
 
 Teams rapidly prototyped across multiple disciplines:
 
@@ -114,8 +107,6 @@ All components were **sponsored by Mythic Society** and sourced through **Robu**
 
 ## 📚 Workshops
 
-![Workshops](images/workshops.jpg)
-
 | Workshop | Facilitator |
 |---|---|
 | Design Thinking & Problem Framing | Sajal Biswas |
@@ -135,8 +126,6 @@ All components were **sponsored by Mythic Society** and sourced through **Robu**
 ---
 
 ## ⚖️ Jury & Evaluation Panel
-
-![Jury Panel](images/jury.jpg)
 
 Projects were evaluated on: **conceptual clarity · Tattva alignment · technical execution · system integration · presentation**
 
